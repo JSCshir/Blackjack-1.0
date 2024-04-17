@@ -1,2 +1,2 @@
-# Blackjack-1.0
-My first iteration of blackjack
+Games
+My first games and subsequent iterations.
